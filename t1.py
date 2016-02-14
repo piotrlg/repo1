@@ -1,6 +1,6 @@
 __author__ = 'piotrlg'
 
-
+# nie wiem o co chodzi
 class kl(object):
     stat_atr = 0
 
