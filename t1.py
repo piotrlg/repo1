@@ -13,6 +13,7 @@ class kl(object):
 inst1 = kl(1)
 inst2 = kl(2)
 
+
 print 'klass atr', kl.stat_atr
 print 'meth atr1', inst1.meth_atr
 print 'meth atr2', inst2.meth_atr
